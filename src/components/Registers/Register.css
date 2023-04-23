@@ -1,0 +1,51 @@
+.register {
+    width: 750px;
+    height: auto;
+    padding: 20px;
+    margin: 150px auto;
+    overflow: hidden;
+}
+
+.register form {
+    background-color: #fff;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    text-align: left;
+    padding: 10px;
+}
+
+.register form label {
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    display: block;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+.register form input {
+    display: block;
+    width: 90%;
+    max-width: 100%;
+    padding: 5px;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    height: 40px;
+    border-radius: 0px;
+    margin: 10px 0px;
+}
+
+.register form button {
+    background-color: rgb(164, 27, 216);
+    border: 1px solid rgb(164, 27, 216);
+    text-align: center;
+    color: #000;
+    height: 40px;
+    width: 140px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
